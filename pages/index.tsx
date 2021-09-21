@@ -20,7 +20,7 @@ const Home: NextPage = () => {
           Welcome to <a href="https://nextjs.org">N-e-x-t.j-s!</a>
         </h1>
 
-        <button onClick={fireError}>Click-fire-error</button>
+        <button onClick={fireError}>Click-fire-test-error</button>
       </main>
 
       <footer className={styles.footer}>
